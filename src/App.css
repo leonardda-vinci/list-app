@@ -39,6 +39,10 @@ body, html {
   margin-bottom: 10px;
   border-color:grey;
 }
+.loader-container{
+  align-items:center;
+  justify-content:center;
+}
 
 .search-bar {
   width: 100vh;
